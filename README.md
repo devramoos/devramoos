@@ -4,7 +4,7 @@
   <em>🚀 Em constante evolução — foco em prática, projetos e desafios.</em>
 </p>
 
-- 💻 Atualmente estudando e praticando: Postgres, Java e Python  
+- 💻 Atualmente estudando e praticando: Postgres, Java, Python e Contabilidade 
 - 🧩 Desafios são meu combustível — me inclua para resolvê-los!  
 - 🎯 Objetivo: me tornar um desenvolvedor  
 - 📚 Geralmente leio sobre filosofia, contabilidade e desenvolvimento pessoal  
