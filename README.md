@@ -22,6 +22,7 @@
 ### 📊 Estatísticas do GitHub (pizza)
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devramoos/devramoos/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
   <img src="https://raw.githubusercontent.com/devramoos/devramoos/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
   <img src="https://raw.githubusercontent.com/devramoos/devramoos/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
 </p>
