@@ -6,7 +6,7 @@
 
 - 💻 Atualmente estudando e praticando: Postgres, Java, Python e Contabilidade 
 - 🧩 Desafios são meu combustível — me inclua para resolvê-los!  
-- 🎯 Objetivo: me tornar um desenvolvedor  
+- 🎯 Objetivo: me tornar um desenvolvedor software
 - 📚 Geralmente leio sobre filosofia, contabilidade, desenvolvimento pessoal e tecnologia
 
 ---
