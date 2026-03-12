@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/devramoos/devramoos/main/profile-summary-card-output/bear/4-productive-time.svg)
-```
-
-    
